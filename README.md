@@ -1,5 +1,5 @@
-WebUAS
+WebDicoding
 ==
-Project UAS semester 1
+Project untuk memenuhi Bootcamp Dicoding
 --
 *Berikut ini hasil project webnya*
